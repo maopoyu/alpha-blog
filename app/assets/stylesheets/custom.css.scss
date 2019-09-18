@@ -1,3 +1,6 @@
+$navbar-default-bg: black;
+
+@import "bootstrap-sprockets";
 @import "bootstrap";
 
 #logo {
@@ -29,7 +32,6 @@
 	margin-bottom: 30px;
 	letter-spacing: -1px;
 	font-weight: bold;
-	font-size: 72px;
 }
 
 .btn-xlarge {
