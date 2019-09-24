@@ -7,7 +7,7 @@
             <li>Created by:</li>
             <li><%= link_to gravatar_for(@article.user), user_path(@article.user) %></li>
             <li class="article-title">
-              <%= link_to article.user.username, user_path(@article.user) %>
+              <%= link_to @article.user.username, user_path(@article.user) %>
             </li>
             <li><small><%= pluralize(@article.user.articles.count, "article") if @article.user.articles %></small></li>
           </div>
