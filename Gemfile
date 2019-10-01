@@ -35,6 +35,8 @@ gem 'will_paginate', '3.1.7'
 gem 'bootstrap-will_paginate', '1.0.0'
 # Controller testing
 gem 'rails-controller-testing'
+# Use rails-i18n
+gem 'rails-i18n'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

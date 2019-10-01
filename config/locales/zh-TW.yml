@@ -1,0 +1,17 @@
+zh-TW:
+  hello: "你好"
+  test: "測試"
+
+  category: "類別："
+
+  sign_up_now: "現在註冊"
+
+  this_is_an_about_page: "關於本站"
+  home: "首頁"
+  about: "關於"
+
+  edit_category_name: "編輯類別名稱"
+
+  listing_all_categories: "所有類別"
+
+  create_new_category: "建立新類別"

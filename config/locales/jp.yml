@@ -1,0 +1,17 @@
+jp:
+  hello: "こんにちは"
+  test: "テスト"
+
+  category: "カテゴリー："
+
+  sign_up_now: "すぐ登録"
+
+  this_is_an_about_page: "このサイトは"
+  home: "ホーム"
+  about: "サイト情報"
+
+  edit_category_name: "カテゴリー名を編集"
+
+  listing_all_categories: "カテゴリー"
+
+  create_new_category: "新しいカテゴリー"

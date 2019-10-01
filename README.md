@@ -1,1 +1,1 @@
-This is an alpha-blog.
+This is Space Blog.

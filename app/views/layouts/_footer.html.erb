@@ -6,8 +6,13 @@
   	</small>
   	<nav>
   	  <ul>
-  	  	<li><%= link_to "About", about_path %></li>
-  	  </ul>
+  	  	<li><%= link_to t(:about), about_path %></li>
+      </ul>
+      <ul>
+        <li><%= link_to "繁體中文", controller: controller_name, action: action_name, locale: "zh-TW" %></li>
+        <li><%= link_to "English", controller: controller_name, action: action_name, locale: "en" %></li>
+        <li><%= link_to "日本語", controller: controller_name, action: action_name, locale: "jp" %></li>
+      </ul>
   	 </nav>
   </footer>
 </div>

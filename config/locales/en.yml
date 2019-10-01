@@ -31,3 +31,18 @@
 
 en:
   hello: "Hello world"
+  test: "TEST"
+
+  category: "Category: "
+
+  sign_up_now: "Sign up now"
+
+  this_is_an_about_page: "This is an about page."
+  home: "Home"
+  about: "About"
+
+  edit_category_name: "Edit Category Name"
+
+  listing_all_categories: "Listing All Categories"
+
+  create_new_category: "Create new category"
